@@ -5,4 +5,4 @@ Does the autistic child have a “theory of mind”?
 Simon Baron-Cohen, Alan M. Leslie, Uta Frith, Cognition, 21 (1985) 37-46
 
 # Bağlantı:
-saylamgorkem.github.io/otizm-klasikleri-1.github.io 
+[Otizm Klasikleri-1](https://saylamgorkem.github.io/otizm-klasikleri-1.github.io/)
